@@ -13,6 +13,9 @@ Menampilkan upcoming film, sehingga dapat membuat user mengetahui film apa yang 
 Menampilkan popular film, sehingga dapat membuat user mengetahui film apa yang tengah popular ditonton<br>
 Menampilkan nowplaying film, sehingga dapat membuat user mengetahui film diputar di minggu-minggu ini<br>
 
+Link APK <br>
+[link APK](https://docs.google.com/uc?export=download&id=0B7DPhAqRdxBkY2poeVNwNVZtckE) <br>
+
 
 ![1](https://github.com/Enggarrahayu/Tugas-Individu/blob/master/WhatsApp%20Image%202017-06-08%20at%2017.03.02.jpeg) <br>
 
